@@ -15,9 +15,9 @@ Firefox Hong Kong Language Pack 0.1
 2. 如已安裝 `langpack-zh-HK@firefox.mozilla.org.xpi` ，你應該會找到它，把它刪除；
 3. 把 https://github.com/mozillahk/langpack-zh-HK 中，新的v0xx內的 `langpack-zh-HK@firefox.mozilla.org` 資料夾抄入 `extensions` 資料夾；
 4. 在 `langpack-zh-HK@firefox.mozilla.org` 資料夾改什麼，火狐就會顯示什麼。有趣的檔案包括：
- * https://etherpad.mozilla.org/H40DbNESYa  browser/chrome/zh-TW/locale/browser/browser.dtd
- * https://etherpad.mozilla.org/XWmclPWIeF  browser/chrome/zh-TW/locale/browser/aboutDialog.dtd
- * https://etherpad.mozilla.org/qNI1OTFyR2  browser/chrome/zh-TW/locale/browser/netError.dtd
- * https://etherpad.mozilla.org/7gV87YCEeR  chrome/zh-HK/locale/zh-HK/global/commonDialogs.properties
+ * https://etherpad.mozilla.org/H40DbNESYa  `browser/chrome/zh-TW/locale/browser/browser.dtd`
+ * https://etherpad.mozilla.org/XWmclPWIeF  `browser/chrome/zh-TW/locale/browser/aboutDialog.dtd`
+ * https://etherpad.mozilla.org/qNI1OTFyR2  `browser/chrome/zh-TW/locale/browser/netError.dtd`
+ * https://etherpad.mozilla.org/7gV87YCEeR  `chrome/zh-HK/locale/zh-HK/global/commonDialogs.properties`
 5. 當然要重新啟動火狐；
 6. 如果改出一個自己的港式翻譯版本，可以把 `langpack-zh-HK@firefox.mozilla.org` 資料夾的檔案 zip 起來，把副檔名由 `zip` 改為 `xpi` 即可。
