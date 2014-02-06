@@ -6,7 +6,7 @@
   <Description about="urn:mozilla:install-manifest"
                em:id="langpack-zh-HK@firefox.mozilla.org"
                em:name="Traditional Chinese Hong Kong (zh-HK) Language Pack"
-               em:version="26.0"
+               em:version="27.0"
                em:type="8"
                em:creator="Mozilla Hong Kong Community based on the work of MozTW">
     <em:contributor>Sammy Fung</em:contributor> <em:contributor>Haggen So</em:contributor>
