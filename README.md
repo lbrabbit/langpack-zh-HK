@@ -8,7 +8,7 @@ Firefox Hong Kong Language Pack 0.1
 ##A. 安裝
 1. 到 https://github.com/mozillahk/langpack-zh-HK ，進入最新的v0xx，下載 `langpack-zh-HK@firefox.mozilla.org.xpi` 檔案；
 2. 用滑鼠把 `langpack-zh-HK@firefox.mozilla.org.xpi` 檔案拖到火狐內，附加元件就會開始安裝；
-3. 如果想在港式翻譯和其他翻譯之間快速轉換，可以安裝 `Quick Locale Switcher` https://addons.mozilla.org/en-US/firefox/addon/quick-locale-switcher/?src=userprofile 。
+3. 如果想在港式翻譯和其他翻譯之間快速轉換，可以安裝 `Locale Switcher` https://addons.mozilla.org/en-US/firefox/addon/locale-switcher/ 。
 
 ##B. 開發
 1. 先找火狐的 profile 路經 http://kb.mozillazine.org/Profile_folder_-_Firefox ，進入extensions資料夾；
